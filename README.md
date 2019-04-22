@@ -57,7 +57,7 @@ In the text editor, find the settings.py file. It should be in a folder with the
 ```
 INSTALLED_APPS = [
        'apps.your_app_name_here', # added this line. Don't forget the comma!!
-       'django.contrib.admin'copy,
+       'django.contrib.admin',
        'django.contrib.auth',
        'django.contrib.contenttypes',
        'django.contrib.sessions',
